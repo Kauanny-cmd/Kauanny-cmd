@@ -1,4 +1,4 @@
-<h1> Hi guys, i'm Kauanny</h1>
+<h1> Hi guys, i'm Kauanny 👋🏻</h1>
 
 <h3 >Sou graduanda no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books:</h3>
 
