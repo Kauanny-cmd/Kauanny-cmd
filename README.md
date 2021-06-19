@@ -2,7 +2,7 @@
 
 <h3 >Sou graduanda no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books:</h3>
 
-### Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou feita de curiosidade :mag_right::female_detective:
+### Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
   
  - **Contributions in:** :telescope:
    - [Tediei](https://github.com/Kauanny-cmd/Tediei) :rocket:
