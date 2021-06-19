@@ -17,7 +17,7 @@
 <a href="https://discord.gg/Little Fox#6838" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Little Fox#6838" height="30" width="40" /></a>
 </p>
 
-### Mais informações: :trophy::dart:
+### More information: :trophy::dart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanny-cmd&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanny-cmd&layout=compact&theme=tokyonight)](https://github.com/kauanny-cmd/github-readme-stats)
