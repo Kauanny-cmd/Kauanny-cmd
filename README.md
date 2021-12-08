@@ -7,6 +7,15 @@
  Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
 </p>
 
+<h3> Skills </h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
 <h3> Connect with me: :calling::mailbox_with_mail: </h3>
 <p align="left">
   
@@ -19,5 +28,5 @@
 </p>
 
 <h3> More information: :trophy::dart: </h3>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanny-cmd&layout=compact&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kauanny-cmd&show_icons=true&theme=tokyonight"/>
