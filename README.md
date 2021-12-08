@@ -1,25 +1,23 @@
-<h1> Hi guys, i'm Kauanny 👋🏻</h1>
+<h1 align="center"> Hi guys, i'm Kauanny 👋🏻</h1>
 
-<h3 >Sou graduanda no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books:</h3>
+<img src="https://user-images.githubusercontent.com/72564756/145278252-16cda3c1-4359-4aaf-826f-73c0d691d12e.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
-### Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
-  
- - **Contributions in:** :telescope:
-   - [Tediei](https://github.com/Kauanny-cmd/Tediei) :rocket:
-   - [JS-Issues](https://github.com/Kauanny-cmd/JS-Issues) :gear:
-   - [Comandos-Git](https://github.com/Kauanny-cmd/Comandos-Git) :robot:
-   - [E outros mais](https://github.com/Kauanny-cmd?tab=repositories) 🐱‍💻
-
-### Connect with me: :calling::mailbox_with_mail: 
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/imkakau_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/imkakau_/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kauanny-vieira-3960561a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kauanny-vieira-3960561a5/" height="30" width="40" /></a>
+  Sou graduanda no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books: <br>
+ Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
+</p>
+
+<h3> Connect with me: :calling::mailbox_with_mail: </h3>
+<p align="left">
+  
+  <a href="https://www.instagram.com/imkakau_/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+  <a href="https://www.linkedin.com/in/kauanny-vieira-3960561a5/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white="/></a>
 
 </p>
 
-### More information: :trophy::dart:
+<h3> More information: :trophy::dart: </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanny-cmd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanny-cmd&layout=compact&theme=tokyonight)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kauanny-cmd&show_icons=true&theme=tokyonight"/>
