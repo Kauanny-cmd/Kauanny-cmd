@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
+  [  <img src="https://img.shields.io/badge/Typesript?style=for-the-badge&logo=c&logoColor=white">](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=react&logoColor=white)
 </p>
 
 <h3> Connect with me: :calling::mailbox_with_mail: </h3>
