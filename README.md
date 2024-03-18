@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/72564756/145278252-16cda3c1-4359-4aaf-826f-73c0d691d12e.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left">
-  Sou graduanda no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books: <br>
+  Sou graduada no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books: <br>
  Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
 </p>
 
