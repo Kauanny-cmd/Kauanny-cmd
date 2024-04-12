@@ -4,7 +4,7 @@
 
 <p align="left">
   Sou graduada no curso de Análise e Desenvolvimento de Sistemas no <a href="https://www.instagram.com/ifpbcznaveia">@ifpb</a> - campus Cajazeiras-PB:mortar_board::books: <br>
- Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade :mag_right::female_detective:
+ Verdadeira nerd/geek, submersa no mundo digital, buscando sempre mais e mais, seja na parte pessoal, social e educacional, literalmente sou movida por curiosidade!
 </p>
 
 <h3> Skills </h3>
